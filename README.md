@@ -23,3 +23,6 @@ This is a small practice project created to improve my Python programming skills
 - Add a loop so the program can run multiple times
 - Adding the most frequent character in a text feature
 - Making the code less crowded
+
+## Author
+Made by (RamtinS-Design)
