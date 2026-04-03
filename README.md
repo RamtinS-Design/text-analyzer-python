@@ -16,9 +16,6 @@ A simple Python script that analyzes a sentence or paragraph and returns useful 
 2. Choose (words / characters / frequent): frequent
 3. Most frequent word: hello
 
-## Purpose
-This is a small practice project created to improve my Python programming skills.
-
 ## Future Improvements 
 - Add a loop so the program can run multiple times
 - Adding the most frequent character in a text feature
